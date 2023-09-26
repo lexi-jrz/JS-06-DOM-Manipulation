@@ -1,9 +1,3 @@
-// Obtener elementos
-// ID 
-// Clase <-- obtenemos varios elementos que coincidan
-// querySelector solo regresa el primer nodo que coincide (ID, Clase)
-// querySelectorAll obtiene una lista de nodos.
-
 
 // 2. Obtener la info del usuario desde inputs y mostrar en tarjetas
 // Al menos deben tener 2 commits
